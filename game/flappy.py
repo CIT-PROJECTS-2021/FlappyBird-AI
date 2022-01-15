@@ -65,7 +65,7 @@ def getHitmask(image):
     return mask
 
 
-FPS = 30
+FPS = 60 # frames per second, the general speed of the program, increase this for faster training
 SCREENWIDTH  = 288
 SCREENHEIGHT = 512
 
